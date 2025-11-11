@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+testing_model/
+fluxes_calculations/
+paper/
+SPIDER/
